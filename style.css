@@ -1,0 +1,90 @@
+body{
+		background-image: url("IMG/background.png");
+		background-repeat: no-repeat;
+		background-size: 100% 100%;
+		background-attachment: fixed;
+		z-index: -1;
+		}
+		
+	#cont_margin{
+		margin: 10% 10% 0% 10%;
+		width:80%;
+	}
+	
+	
+	
+	#insert_margin{
+		padding-top: 30%;
+		width:100%;
+	}
+	
+	input[type=number]{
+    width: 80px;
+	} 
+	
+	.fakeimg {
+		width: auto;
+		height: a;
+		margin-top: 30px;
+		margin-left: 20px;
+  }
+  
+  .green-color{
+	color: green;
+	text-shadow: 0.5px 0.5px #204010;
+  }
+  
+  .white-color{
+	color: white;
+	text-shadow: 0.5px 0.5px white;
+  }
+  
+  .blue-color{
+	color: blue;
+	text-shadow: 0.5px 0.5px blue;
+  }
+  
+  .purple-color{
+	  color: #9204ff;
+	  text-shadow: 0.5px 0.5px #9204ff;
+  }
+  
+  .orange-color{
+	  color: #ff5c16;
+	  text-shadow: 0.5px 0.5px #ff5c16;
+  }
+  
+  .lightgray-color{
+	  color: #b0b0ac;
+	  text-shadow: 0.5px 0.5px #b0b0ac;
+  }
+  
+  .yellow-color{
+	  color: #d4ba39;
+	  text-shadow: 0.5px 0.5px #ff5c16;
+  }
+  
+  .item_bg{
+	margin-top: -50px;
+	margin-left: 80px;
+	background: url('IMG/item_bg.png');
+	background-repeat: no-repeat;
+	background-size: 75% 100%;
+    width: auto;
+    height: auto;	
+	
+	}
+	
+.main_conteiner{
+		width:100%;
+		height:auto;
+		background-color: gray;
+		
+}
+	
+.item-list{
+	padding-top: 5px;
+	background-color: #737271;
+	border-style: groove none groove none;
+}
+	
